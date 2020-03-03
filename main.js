@@ -1,7 +1,56 @@
 /******************
  * YOUR CODE HERE *
  ******************/
+function fizzBuzzSingleNumber(num1, num2){
+  if (num1 % num2 == 0)
+  return true;
+} else {
 
+return false
+}
+
+
+
+function getMiddleLetters(){
+
+}
+
+function getNextLetter(str){
+  const alpa = 'abcdefghijklmnopqrstuvwxyz'
+
+for(let i = 0; alpa < str.length; i++ ){
+  if alpa(str[i])
+}
+
+return alpa 
+
+}
+
+function getAverage(numbers){
+  const numbers1 = 
+  const numbers2 = 
+
+}
+
+function triStateAreaOnly(){
+
+}
+
+function removeTrolls(){
+
+}
+
+function cipher(){
+
+}
+
+function addToMultiDigitNumbers(){
+
+}
+
+function hyphenateNames(){
+
+}
 
 
 
